@@ -1,4 +1,4 @@
 body{
     display: grid;
-    grid-template-rows: 100vh auto;
+    grid-template-rows: 105vh auto;
 }
